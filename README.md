@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on CV and UI/UX<br>I'm looking to contribute to open source projects <br>I'm currently learning AI-ML<br>Contributed in Agent-Event-protocol & Metaflow by netflix.<br>fun fact: if you forge steel piece in the direction of the earth's magnetic field, the steel piece will turn out to me work as a magnet!
+I'm currently working AI-ML <br>I'm looking to contribute to open source projects <br>I'm currently learning Cloud and UI-UX <br>Contributed in Agent-Event-protocol & Metaflow by netflix.<br>fun fact: if you forge steel piece in the direction of the earth's magnetic field, the steel piece will turn out to me work as a magnet!
 
 
 ## 🌐 Socials:
